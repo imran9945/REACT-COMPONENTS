@@ -2,7 +2,7 @@ import React from 'react';
 import Test from './test.js';
 function App() {
   return (
-    <Test tname="linenum1" stname="nam"/>
+    <Test tname="SIR AMIR PINGER" stname="Imran"/>
   );
 }
 
